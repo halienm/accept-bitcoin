@@ -21,7 +21,7 @@
   "author": "sagiv ofek",
   "license": "MIT",
   "dependencies": {
-    "bitcore": "0.1.41",
+    "bitcore": "4.1.1",
     "request": "*"
   }
 }
